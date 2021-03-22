@@ -1,16 +1,7 @@
-# terceiro_flutter_app
+## :car: Calcule os custos de uma viagem :car:
+> Meu terceiro App criado com Flutter, que é um trabalho da aula de Dispositivos Móveis, ministrado pelo professor Marcos Dias Vendramini.
 
-Flutter App que calcula o custo de uma viagem.
+O App calcula os custos de uma viagem, com base na distância (Km), preço do combústivel e a média de consumo do veículo (Km/L)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshot
+![](.github/screenshot.png)

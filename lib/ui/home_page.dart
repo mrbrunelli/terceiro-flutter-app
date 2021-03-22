@@ -76,7 +76,6 @@ class _HomePageState extends State<HomePage> {
           return AlertDialog(
             title: Text(title),
             content: Text(message),
-            actions: [
               TextButton(
                   onPressed: () {
                     _closeActualWindow(ctx);
